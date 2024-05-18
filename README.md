@@ -6,13 +6,9 @@ I am a recent graduate with a profound interest in technology and a dedication t
 
 </b></i>
 - <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Powershell script to automate the creation of new users in Active Directory](https://github.com/ns214/ActiveDirectory-AutomatedUserCreation-Lab)
 - <b>Vulnerability Scanning</b>
   - [Using Nmap and Legion to find vulnerabilities](https://github.com/ns214/Nmap-and-Legion-for-vulnerability-scanning)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 
 <h2> 🤳 Connect with me:</h2>
